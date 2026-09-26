@@ -3,7 +3,10 @@
   "description": "Script library and MCP server for reusable automation",
   "homepage": "https://github.com/jacobhuemmer/kata",
   "license": "MIT|Apache-2.0",
-  "depends": "git",
+  "depends": [
+    "git",
+    "extras/vcredist2022"
+  ],
   "architecture": {
     "64bit": {
       "url": "https://github.com/jacobhuemmer/kata/releases/download/v0.1.1/kata-0.1.1-windows-x86_64.zip",
