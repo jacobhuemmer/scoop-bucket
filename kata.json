@@ -1,5 +1,5 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Script library and MCP server for reusable automation",
   "homepage": "https://github.com/jacobhuemmer/kata",
   "license": "MIT|Apache-2.0",
@@ -9,8 +9,8 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://github.com/jacobhuemmer/kata/releases/download/v0.1.2/kata-0.1.2-windows-x86_64.zip",
-      "hash": "56f2a05cdaf0332ae7f956353ce9719a7d4f63e7b3a45dc0ec6c5db6f7febf7b"
+      "url": "https://github.com/jacobhuemmer/kata/releases/download/v0.1.3/kata-0.1.3-windows-x86_64.zip",
+      "hash": "e6f273f9ca93158cc56fb0d3a7c2164b8420348295aef15535e658808a040475"
     }
   },
   "bin": "kata.exe",
