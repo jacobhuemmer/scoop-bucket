@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jacobhuemmer/m365/releases/download/v0.3.0/m365_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/jacobhuemmer/m365/releases/download/v0.4.0/m365_0.4.0_windows_amd64.zip",
             "bin": [
                 "m365.exe"
             ],
-            "hash": "06a11fce86f2d7b1f068f7e96805b351a066c3a02882190cb437eb99e1ae9eb8"
+            "hash": "9bbcb3732c4be54099b77199e02e94745f05e5d3fdd74dc63f410c5b69aee91d"
         },
         "arm64": {
-            "url": "https://github.com/jacobhuemmer/m365/releases/download/v0.3.0/m365_0.3.0_windows_arm64.zip",
+            "url": "https://github.com/jacobhuemmer/m365/releases/download/v0.4.0/m365_0.4.0_windows_arm64.zip",
             "bin": [
                 "m365.exe"
             ],
-            "hash": "2227bb6ab7afa9c379d97d91e6a920a650fe74fd049df94ecfe7781331af8f42"
+            "hash": "4323a888d6b4201d5cee719164182552ffc3c18c3aaa6c2f35e525ea1e89be10"
         }
     },
     "homepage": "https://github.com/jacobhuemmer/m365",
